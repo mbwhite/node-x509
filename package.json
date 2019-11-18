@@ -1,6 +1,6 @@
 {
   "name": "@ampretia/x509",
-  "version": "0.4.3",
+  "version": "0.4.5",
   "description": "Simple X509 certificate parser; forked verion from Southern/x509",
   "author": "Colton Baker",
   "contributors": [
