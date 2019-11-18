@@ -1,6 +1,6 @@
 {
   "name": "@ampretia/x509",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Simple X509 certificate parser; forked verion from Southern/x509",
   "author": "Colton Baker",
   "contributors": [
@@ -16,7 +16,7 @@
     "url": "git@github.com:ampretia/node-x509.git"
   },
   "scripts": {
-    "configure" : "node-gyp configure",
+    "configure": "node-gyp configure",
     "build": "npm run configure &&  node-gyp build",
     "clean": "rm -rf node_modules && rm package-lock.json && rm -rf build",
     "test": "node test/test",
